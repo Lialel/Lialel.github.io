@@ -12,13 +12,4 @@
 - Фильтр карточек в Портфолио
 - Форма обратной связи (Ajax, PHP) 
 
-[**Онлайн демо**](https://nobleworkshop.github.io/personal-portfolio/)
-
-### Тестировать локально
-
-```
-git clone https://github.com/nobleworkshop/personal-portfolio.git
-cd apollo
-```
-
-Открыть index.html
+[**Онлайн демо**](https://lialel.github.io/)
